@@ -36,13 +36,3 @@ Push the codebase into github
 
 
 
- 
- 
- 
-
- 
-Part 2:
-Step 1: Run the Docker Container
-
-
-
